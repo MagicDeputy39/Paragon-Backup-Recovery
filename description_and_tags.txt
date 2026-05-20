@@ -1,0 +1,30 @@
+============================================================
+  GITHUB REPOSITORY — DESCRIPTION & TOPICS
+============================================================
+
+DESCRIPTION:
+------------------------------------------------------------
+Paragon Backup & Recovery — differential and incremental backup with bare-metal restore support. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.
+
+============================================================
+
+TOPICS / TAGS:
+------------------------------------------------------------
+data-tools
+differential-backup
+disk-backup
+disk-tools
+incremental-backup
+paragon
+paragon-backup-2026
+paragon-backup-download
+paragon-backup-recovery
+paragon-backup-recovery-2026
+paragon-backup-recovery-download
+windows-tools-2026
+
+============================================================
+
+SEO KEYWORDS:
+------------------------------------------------------------
+paragon backup & recovery, paragon backup & recovery download, paragon backup & recovery 2026, paragon backup recovery, paragon backup download, paragon backup 2026, differential backup, incremental backup, free software 2026, pc software download

